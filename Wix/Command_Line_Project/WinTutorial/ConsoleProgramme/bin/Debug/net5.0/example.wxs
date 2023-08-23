@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+   <Product Id="*" UpgradeCode="68906EB1-4C0E-42A3-9DCB-42FC361EE509" 
+            Name="Example Product" Version="0.0.1" Manufacturer="Example Company Name" Language="1033">
+      <Package InstallerVersion="200" Compressed="yes" Comments="Windows Installer Package"/>
+      <Media Id="1" Cabinet="product.cab" EmbedCab="yes"/>
+	  
+        <Directory Id="TARGETDIR" Name="SourceDir">
+            <Directory Id="ProgramFilesFolder">
+                <Directory Id="APPLICATIONROOTDIRECTORY" Name="Example Product"/>
+            </Directory>
+            <!-- Step 1: Define the directory structure -->
+            <Directory Id="ProgramMenuFolder">
+                <Directory Id="ApplicationProgramsFolder" Name="Example Product"/>
+            </Directory>
+        </Directory>
+		
+
+        <DirectoryRef Id="APPLICATIONROOTDIRECTORY">
+            <Component Id="ApplicationFile1" Guid="6CF9F586-24F8-4985-8081-0F91385C29B7">
+                <File Id="ApplicationFile1" Source="ConsoleProgramme.exe" KeyPath="yes" Checksum="yes"/>
+            </Component>
+            <Component Id="Dllfile1" Guid="2C45686B-D6CD-480B-AADE-680D03D1B811">
+                <File Id="Dllfile1" Source="ConsoleProgramme.dll" KeyPath="yes" Checksum="yes"/>
+            </Component>
+			<Component Id="Depsjson1" Guid="2453BF10-377F-4C9A-B13F-C594978CD70A">
+                <File Id="Depsjson1" Source="ConsoleProgramme.deps.json" KeyPath="yes" Checksum="yes"/>
+            </Component>
+			<Component Id="Programmepdb" Guid="204B12FB-B14B-4937-BE2C-0B6134C2C47C">
+                <File Id="Programmepdb" Source="ConsoleProgramme.pdb" KeyPath="yes" Checksum="yes"/>
+            </Component>
+			<Component Id="Devjson" Guid="13CE6A8F-6A85-461C-822B-D29E3F764B61">
+                <File Id="Devjson" Source="ConsoleProgramme.runtimeconfig.dev.json" KeyPath="yes" Checksum="yes"/>
+            </Component>
+			<Component Id="RuntimeConfig" Guid="ACEB0E9E-0B8F-4F8F-B930-33E356FB9ECC">
+                <File Id="RuntimeConfig" Source="ConsoleProgramme.runtimeconfig.json" KeyPath="yes" Checksum="yes"/>
+            </Component>
+        </DirectoryRef>
+		
+		<!-- Step 2: Add the shortcut to your installer package -->
+        <DirectoryRef Id="ApplicationProgramsFolder">
+            <Component Id="ApplicationShortcut" Guid="FE2299D9-671C-4DFE-8E5C-95A76EF19324">
+                <Shortcut Id="ApplicationStartMenuShortcut"
+                          Name="Example Product"
+                          Description="Example Product"
+                          Target="[#ApplicationFile1]"
+                          WorkingDirectory="APPLICATIONROOTDIRECTORY"/>
+                <RemoveFolder Id="ApplicationProgramsFolder" On="uninstall"/>
+                <RegistryValue Root="HKCU" Key="Software\MyCompany\MyApplicationName" Name="installed" Type="integer" Value="1" KeyPath="yes"/>
+            </Component>
+        </DirectoryRef>
+		
+        <Feature Id="MyApplication" Title="Main Application" Level="1">
+            <ComponentRef Id="ApplicationFile1" />
+			<ComponentRef Id="Dllfile1" />
+			<ComponentRef Id="Depsjson1" />
+			<ComponentRef Id="Programmepdb" />
+			<ComponentRef Id="Devjson" />
+			<ComponentRef Id="RuntimeConfig" />
+            <!-- Step 3: Tell WiX to install the shortcut -->
+			<ComponentRef Id="ApplicationShortcut" /> 
+        </Feature>
+   </Product>
+</Wix>

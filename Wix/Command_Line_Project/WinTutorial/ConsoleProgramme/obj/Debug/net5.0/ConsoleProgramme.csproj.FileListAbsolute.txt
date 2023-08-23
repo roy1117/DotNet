@@ -1,0 +1,30 @@
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.exe
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.deps.json
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.json
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.dev.json
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfoInputs.cache
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfo.cs
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\a00533064\source\repos\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.genruntimeconfig.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\bin\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.AssemblyInfo.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ref\ConsoleProgramme.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Command_Line\WinTutorial\ConsoleProgramme\obj\Debug\net5.0\ConsoleProgramme.genruntimeconfig.cache
