@@ -1,0 +1,7 @@
+obj\Debug\Product.wixobj
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\cab1.cab
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\PracticeSetupProject.msi
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\PracticeSetupProject.wixpdb
+obj\Debug\PracticeSetupProject.wixproj.BindContentsFileListnull.txt
+obj\Debug\PracticeSetupProject.wixproj.BindOutputsFileListnull.txt
+obj\Debug\PracticeSetupProject.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,16 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.exe
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.deps.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ref\ConsoleApplication.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.AssemblyInfo.cs
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ref\ConsoleApplication.dll
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.pdb
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\ConsoleApplication\obj\Debug\net5.0\ConsoleApplication.genruntimeconfig.cache

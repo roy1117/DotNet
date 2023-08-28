@@ -1,0 +1,3 @@
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\cab1.cab
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\PracticeSetupProject.msi
+C:\Users\a00533064\OneDrive - ONEVIRTUALOFFICE\Desktop\DotNet\DotNet\Wix\Wix_Bundle_Project\PracticeSetupProject\bin\Debug\PracticeSetupProject.wixpdb

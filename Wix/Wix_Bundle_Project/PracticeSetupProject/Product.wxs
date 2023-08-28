@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="PracticeSetupProject" Language="1033" Version="1.0.0.0" Manufacturer="Me" UpgradeCode="59efb655-bb0e-4fd4-8bbe-defa31e980a8">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="PracticeSetupProject" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="PracticeSetupProject" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="ProductComponent" Guid="68906EB1-4C0E-42A3-9DCB-42FC361EE509">
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.deps.json" />
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.dll" />
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.exe" />
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.pdb" />
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.dev.json" />
+				<File Source="ConsoleApplication\bin\Debug\net5.0\ConsoleApplication.runtimeconfig.json" />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
